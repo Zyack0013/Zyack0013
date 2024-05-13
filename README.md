@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zyack0013
+- 👋 Hi, I’m @Ananthu Joshylal
 - 👀 I’m interested in being a data scientist.
 - 🌱 I’m currently learning my first ever programming language python.
 - 💞️ I’m looking to learn a lot from github.
