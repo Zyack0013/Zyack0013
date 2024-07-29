@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananthu Joshylal
-- 👀 I’m interested in being a data scientist.
-- 🌱 I’m currently learning my first ever programming language python.
+- 👀 I’m interested in being a Web Developer.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to learn a lot from github.
 - 📫 
 
